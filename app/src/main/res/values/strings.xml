@@ -5,7 +5,7 @@
     <string name="title_activity_create_recipe">Создать рецепт</string>
     <string name="recipe_name_hint">Название рецепта</string>
     <string name="recipe_category">Категория</string>
-    <string name="recipe_ingredients">Ингридиенты</string>
+    <string name="recipe_ingredients">Ингредиенты</string>
     <string name="contentdesc_add_ingredient">Добавить кнопку ингридиентов</string>
     <string name="contentdesc_remove_ingredient">Удалить кнопку ингридиентов</string>
     <string name="recipe_instructions">Приготовление</string>
